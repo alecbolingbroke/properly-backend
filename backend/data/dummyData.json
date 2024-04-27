@@ -1,0 +1,82 @@
+{
+    "usersData": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john@example.com",
+        "phoneNum": "123-456-7890",
+        "password": "password123"
+      },
+      {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane@example.com",
+        "phoneNum": "987-654-3210",
+        "password": "secret456"
+      },
+      {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "email": "alice@example.com",
+        "phoneNum": "555-555-5555",
+        "password": "alicePass"
+      }
+    ],
+    "propertiesData": [
+      {
+        "address": "123 Main St",
+        "description": "Cozy apartment in downtown",
+        "price": 150000,
+        "listingType": "Sale",
+        "listingDate": "2023-01-15",
+        "listingStatus": "Active",
+        "propertyTaxId": "ABC123",
+        "imageUrl": "https://i.redd.it/4b9z6pkrh8i81.jpg"
+      },
+      {
+        "address": "456 Elm St",
+        "description": "Spacious house with a backyard",
+        "price": 300000,
+        "listingType": "Sale",
+        "listingDate": "2023-02-20",
+        "listingStatus": "Active",
+        "propertyTaxId": "DEF456",
+        "imageUrl": "https://www.shrubhub.com/img/blog/large_backyard_design_01.jpg"
+      },
+      {
+        "address": "789 Oak St",
+        "description": "Modern condo with city views",
+        "price": 2500,
+        "listingType": "Rent",
+        "listingDate": "2023-03-10",
+        "listingStatus": "Active",
+        "propertyTaxId": "GHI789",
+        "imageUrl": "https://thumbs.cityrealty.com/assets/smart/1004x/webp/1/16/1655f4e3904fb79cb987ab7755d2b3f4b8f37f88/1-city-point.jpg"
+      }
+    ],
+    "postsData": [
+      {
+        "title": "How AI is Transforming the Real Estate Landscape",
+        "body": "Artificial Intelligence is revolutionizing the real estate industry by enhancing data analysis, improving decision-making, and personalizing customer interactions. From predictive analytics to virtual property tours, AI is reshaping how agents, buyers, and sellers interact with each other and the properties themselves.",
+        "authorId": 1,
+        "imageUrl":
+          "https://wezom.com/storage/blog/inner/n7qq4yXtusiZ6PneWyWEOsAheHKNUHE1hRbt4Az0.png?v=1680124103"
+      },
+      {
+        "title": "The Future of Home Buying: Properly.AI",
+        "body": "Imagine a world where your home finds you. Properly.AI utilizes smart algorithms to make this possible by analyzing personal data to suggest properties that best match your preferences and needs, significantly shortening the buying cycle and creating a personalized shopping experience.",
+        "authorId": 1,
+        "imageUrl":
+          "https://www.lifeandmoney.citi.com/rcs/v1/siteIds/lifeandmoney/asset/654b70965837e2614c32608a.jpg"
+      },
+      {
+        "title": "Reducing Costs with AI-driven Real Estate Models",
+        "body": "AI-driven platforms in real estate are not just about improving efficiencies; they're also about cost reduction. By automating routine tasks and optimizing energy usage in properties, AI is helping reduce overhead costs for real estate businesses dramatically. Think of all the commissions a typical agent would charge you!",
+        "authorId": 1,
+        "imageUrl":
+          "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/931/506/Credible-save-money-for-home-iStock-964010726.jpg?ve=1&tl=1"
+      }
+    ]
+  }
+
+  
